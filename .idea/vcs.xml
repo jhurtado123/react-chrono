@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-css-recipes-clone" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-css-spotify-clone" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab-css-recipes-clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-css-spotify-clone" vcs="Git" />
   </component>
 </project>
