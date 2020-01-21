@@ -2,13 +2,23 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/Rover" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-bootstrap-cloning-revera" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-css-flexbox-slack" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-css-instagram-clone" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-css-recipes-clone" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-css-spotify-clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-dom-ironhack-cart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-dom-pizza-builder" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-basic-algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-chronometer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-clue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-cronometro" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-functions-and-arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-greatest-movies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-koans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-memory-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-vikings" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/proyectoPortfolio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab-css-recipes-clone" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab-css-spotify-clone" vcs="Git" />
