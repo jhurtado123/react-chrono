@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-advance-querying-mongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-es6-javascript-koans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-express-basic-site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-express-cinema" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-express-spotify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-intro-node" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-ironbeers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-mongoose-movies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-mongoose-recipes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resort-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-maps-api" vcs="Git" />
+  </component>
+</project>
