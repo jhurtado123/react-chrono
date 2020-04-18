@@ -2,31 +2,27 @@ import React, {Component} from 'react';
 
 class Chrono extends Component {
 
+  interval = undefined;
   state  = {
     time: this.props.time,
     backupTime: this.props.time,
-    interval: undefined,
   };
 
   handleStart = () => {
-    if (!this.state.interval) {
-      this.setState({
-        interval: setInterval(() => {
+    if (!this.interval) {
+        this.interval = setInterval(() => {
           if (!this.state.time) return;
           this.setState({
             time: this.state.time - 1
           })
         }, 1000)
-      });
     }
   };
 
   handleStop = () => {
-    if (this.state.interval) {
-      clearInterval(this.state.interval);
-      this.setState({
-        interval: undefined
-      })
+    if (this.interval) {
+      clearInterval(this.interval);
+      this.interval = undefined;
     }
   };
 
