@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color:purple;
+}
+input {
+  display: block;
+  width: 400px;
+}
+button {
+  display: block;
+  background: purple;
+  color:#24292E;
+  border:none;
+  padding:10px 20px;
+  font-size: 18px;
+  margin-top: 15px;
+  cursor:pointer;
+}
+div {
+
+}
+ul {
+  text-align: left;
+  width: 100%;
+  padding: 0;
+  margin-top: 30px;
+
+}
+li {
+  margin: 10px 0;
+  font-size: 18px;
+}
+a {
+  color:#24292E;
+}

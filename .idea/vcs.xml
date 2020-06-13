@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/Rover" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo1/gameproject" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-bootstrap-cloning-revera" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-canvas-race-car" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-css-flexbox-slack" vcs="Git" />
@@ -22,6 +23,34 @@
     <mapping directory="$PROJECT_DIR$/Modulo1/lab-javascript-vikings" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/proyectoPortfolio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Modulo1/snake-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-advance-querying-mongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-ajax-crud-characters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-es6-javascript-koans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-express-basic-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-express-basic-site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-express-cinema" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-express-spotify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-intro-node" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-ironbeers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-mongoose-movies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/lab-mongoose-recipes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/renting_webapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/resort-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo2/test-maps-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/Service_App/serviceapp_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/Service_App/serviceapp_frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/github-search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/lab-bulma-components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/lab-hello-ironhack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/lab-react-ironbeers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/lab-react-ironcontacts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/lab-react-ironnutrition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/lab-react-training" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/lab-thinking-in-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/lab-wiki-countries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/resort-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/resort-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modulo3/store-react" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab-css-recipes-clone" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab-css-spotify-clone" vcs="Git" />
   </component>

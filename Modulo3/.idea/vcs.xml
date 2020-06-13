@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Service_App/serviceapp_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Service_App/serviceapp_frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github-search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-bulma-components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-hello-ironhack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-react-ironbeers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-react-ironcontacts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-react-ironnutrition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-react-training" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-thinking-in-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-wiki-countries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resort-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resort-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/store-react" vcs="Git" />
+  </component>
+</project>
