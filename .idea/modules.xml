@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Ironhack.iml" filepath="$PROJECT_DIR$/.idea/Ironhack.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/chrono.iml" filepath="$PROJECT_DIR$/.idea/chrono.iml" />
+>>>>>>> a23cfcc275428a3febd4cdfba77d798567abb443
     </modules>
   </component>
 </project>

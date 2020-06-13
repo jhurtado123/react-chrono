@@ -1,0 +1,10 @@
+.chrono {
+    border: 2px dashed darkgray;
+    padding: 15px 30px;
+    margin: 20px;
+    min-height: 183px;
+    min-width: 422px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
